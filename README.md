@@ -1,4 +1,4 @@
-<h1>Hi, I'm Charleston! <br/><a href="https://www.linkedin.com/in/clawson03/">Electrical Engineering Student</a>
+<h1>Hi, I'm Charleston (CJ)! <br/><a href="https://www.linkedin.com/in/clawson03/">Electrical Engineering Student</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
