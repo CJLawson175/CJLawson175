@@ -4,6 +4,10 @@
 
 - <b>C Programming Projects</b>
   - [Double Pendulum Simulation](https://github.com/CJLawson175/DoublePendulumSim.git)
+ 
+- <b>Python Projects</b>
+  - [United States Air Quality Interactive Map (In Progress)](https://github.com/CJLawson175/USAirQualityMap.git)
+ 
 
 <h2> 🤳 Connect with me:</h2>
 
