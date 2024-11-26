@@ -7,7 +7,8 @@
  
 - <b>Python Projects</b>
   - [United States Air Quality Interactive Map (In Progress)](https://github.com/CJLawson175/USAirQualityMap.git)
- 
+
+  - [Southern US Air Quality VIsualization class project (Class In-Progress)](https://github.com/CJLawson175/ENG220-Group-6.git)
 
 <h2> 🤳 Connect with me:</h2>
 
