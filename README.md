@@ -6,7 +6,7 @@
   - [Double Pendulum Simulation](https://github.com/CJLawson175/DoublePendulumSim.git)
  
 - <b>Python Projects</b>
-  - [United States Air Quality Interactive Map (In Progress)](https://github.com/CJLawson175/USAirQualityMap.git)
+  - [United States Air Quality Interactive Map](https://github.com/CJLawson175/USAirQualityMap.git)
 
   - [Southern US Air Quality VIsualization class project (Fall 2024)](https://github.com/CJLawson175/ENG220-Group-6.git)
 
